@@ -1,0 +1,21 @@
+*{
+    font-family: 'Roboto', sans-serif;   
+   
+}
+
+header{
+    height:40px
+}
+img{
+    border-radius: 1rem;
+}
+.text{
+    font-size: 0.75rem;
+    margin-top: 0.25rem;
+}
+.enlace{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    font-size: 1rem;
+}
